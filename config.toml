@@ -1,0 +1,17 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Marc Arndt'
+theme = 'm10c'
+
+[params]
+    author = "Marc Arndt"
+    description = "Marc Arndt's personal website"
+    menu_item_separator = " - "
+    avatar = "profile.jpg"
+
+
+    [[params.social]]
+        icon = "github"
+        name = "Github"
+        url = "https://github.com/zamedic"
+
